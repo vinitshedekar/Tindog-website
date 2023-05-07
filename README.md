@@ -1,2 +1,3 @@
 # Tindog-website
-Tindog is just like the Tinder but for the dogs
+Tindog is just like Tinder but for dogs<br>
+Website link: https://vinitshedekar.github.io/Tindog-website/
